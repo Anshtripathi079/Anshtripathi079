@@ -36,6 +36,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Anshtripathi079&theme=vision-friendly-dark&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshtripathi079&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anshtripathi079&theme=dracula)](https://git.io/streak-stats)
 <!--  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anshtripathi079&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4) -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshtripathi079&show_icons=true&locale=en" alt="anshtripathi079" /></p> -->
