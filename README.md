@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&width=435&lines=Web+Developer+;Programmer)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 - 🔭 I’m currently working on **Web Projects**
 
 - 🌱 I’m currently learning **React JS**
