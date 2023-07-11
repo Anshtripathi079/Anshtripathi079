@@ -44,7 +44,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshtripathi079&show_icons=true&locale=en" alt="anshtripathi079" /></p> -->
 <div>
   <a href="https://github.com/Anshtripathi079">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anshtripathi079&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/><br>
+   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anshtripathi079&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/><br>-->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshtripathi079&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
